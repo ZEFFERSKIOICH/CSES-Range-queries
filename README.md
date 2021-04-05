@@ -9,3 +9,7 @@ b)Forest Queries II
 c)Salary Queries 
 d)Range Queries and Copies 
 
+
+
+Most of the solutions are written in almost similar format so if u can give some time to understand any one of them following the other solutions  shouldn't be that hard.
+
